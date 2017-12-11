@@ -10,6 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 // TODO: View.OnClickListener as class attribute
+//
 public class Option4Activity extends AppCompatActivity {
 
     private EditText etInput;
